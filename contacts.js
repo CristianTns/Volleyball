@@ -1,0 +1,1 @@
+alert("A s sunaț la pațani ș vă dagavariț")
